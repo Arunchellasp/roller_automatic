@@ -1,0 +1,37 @@
+
+
+GraphedExpression="output_pid", Color=#e56a6f
+GraphedExpression="output_pid_clamp", Color=#35792b
+OpenDocument="main.c", FilePath="D:/code/aw_pcb/Core/Src/main.c", Line=77
+OpenDocument="oriental_motor.h", FilePath="D:/code/aw_pcb/Core/Inc/src/automated_winch/oriental_motor/oriental_motor.h", Line=25
+OpenDocument="stm32f4xx_hal_uart.c", FilePath="D:/code/aw_pcb/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c", Line=3210
+OpenDocument="stm32f4xx_hal.c", FilePath="D:/code/aw_pcb/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c", Line=320
+OpenDocument="stm32f4xx_hal_i2c.c", FilePath="D:/code/aw_pcb/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c", Line=7278
+OpenDocument="os_stm32_core.h", FilePath="D:/code/aw_pcb/Core/Inc/src/os/stm32/os_stm32_core.h", Line=69
+OpenDocument="ads1115_ads1015.h", FilePath="D:/code/aw_pcb/Core/Inc/src/automated_winch/sensors/ads1115_ads1015.h", Line=10
+OpenDocument="startup_stm32f412retx.s", FilePath="D:/code/aw_pcb/Core/Startup/startup_stm32f412retx.s", Line=52
+OpenDocument="automated_winch.c", FilePath="D:/code/aw_pcb/Core/Inc/src/automated_winch/automated_winch.c", Line=113
+OpenToolbar="View", Floating=0, x=1, y=0
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=307, h=436, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Global Data", DockArea=RIGHT, x=0, y=0, w=939, h=414, TabPos=2, TopOfStack=0, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Local Data", DockArea=RIGHT, x=0, y=0, w=939, h=414, TabPos=4, TopOfStack=0, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Watched Data 1", DockArea=RIGHT, x=0, y=0, w=939, h=414, TabPos=0, TopOfStack=1, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Functions", DockArea=BOTTOM, x=0, y=0, w=1920, h=437, TabPos=1, TopOfStack=0, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=RIGHT, x=0, y=0, w=939, h=414, TabPos=1, TopOfStack=0, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=0, y=0, w=1920, h=437, TabPos=0, TopOfStack=1, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="2 s", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="1549;0", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="1691;0", CodeGraphLegendShown=0, CodeGraphLegendPosition="1723;0"
+OpenWindow="Console", DockArea=RIGHT, x=0, y=0, w=939, h=414, TabPos=3, TopOfStack=0, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[371;321;224;216;100]
+TableHeader="Local Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type";"Scope"], ColWidths=[295;371;104;100;184;100]
+TableHeader="Global Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type";"Scope"], ColWidths=[181;182;100;100;460;100]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" output_pid";" output_pid_clamp"], ColWidths=[100;100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[100;100;114;114;104;124;115;134;129]
+TableHeader="Source Files", SortCol="File", SortOrder="DESCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[300;100;100;100;1589]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;764]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Size";"Refresh";"Type";"Scope"], ColWidths=[289;175;125;64;92;225;212]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;1339]
+WatchedExpression="aw", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="output_pid", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="output_pid_clamp", RefreshRate=5, Window=Watched Data 1
